@@ -1,5 +1,5 @@
 # Saptarshi Banerjee <img src="https://media.giphy.com/media/hvRJCLzz8c23zYMoWR/giphy.gif" width="35">
-### Senior Solutions Architect @ AWS | Sovereign AI & FedRAMP Expert | U.S. Patent Holder
+### Senior Solutions Architect @ AWS | Generative AI & FedRAMP Expert | U.S. Patent Holder
 
 <p align="left">
 <a href="https://www.linkedin.com/in/saptarshi-banerjee-83472679/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,10 +10,10 @@
 ---
 
 ## ⚡ Executive Summary
-I am a **Senior Solutions Architect at Amazon Web Services (AWS)**, recognized for engineering the secure AI infrastructure that powers U.S. National Security, Public Sector, and Fortune 100 enterprise workloads.
+I am a **Senior Solutions Architect at Amazon Web Services (AWS)**, recognized for engineering the secure AI infrastructure that powers Enterprise Customers, Public Sector, and Fortune 100 enterprise workloads.
 
 * 📜 **Patent Holder:** Inventor of the Amazon Patent for **AI Reliability** (LLM Robustness).
-* 🛡️ **Sovereign AI:** Lead architect for **FedRAMP High** GenAI systems (Xacta.ai).
+* 🛡️ **Sovereign AI:** Lead architect for **FedRAMP High** GenAI systems.
 * 🏛️ **National Importance:** Invited Expert at the **SCSP AI Summit** advising on U.S. leadership in AI.
 
 ---
