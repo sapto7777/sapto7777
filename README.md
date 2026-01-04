@@ -39,13 +39,3 @@ I am a **Senior Solutions Architect at Amazon Web Services (AWS)**, recognized f
 
 ---
 
-## 🚀 GitHub Analytics & Impact
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapto7777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapto7777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📰 Global Media
-| [IBT Times](
